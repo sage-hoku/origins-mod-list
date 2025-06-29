@@ -1,0 +1,1 @@
+find archive -type f -name '*.jar' -exec cp {} mods/ \;
